@@ -1,0 +1,18 @@
+{
+  "common": {
+    "exportTitle": "Export",
+    "exportCSV": "Export CSV",
+    "exportExcel": "Export Excel",
+    "dateRangePicker": {
+      "next7Days": "Next 7 Days",
+      "next30Days": "Next 30 Days",
+      "past7Days": "Past 7 Days",
+      "past30Days": "Past 30 Days",
+      "past90Days": "Past 90 Days",
+      "past365Days": "Past 365 Days"
+    }
+  },
+  "header": {
+    "appName": "Sinhagad"
+  }
+}

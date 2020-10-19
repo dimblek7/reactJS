@@ -1,0 +1,55 @@
+.input-email,
+.multiemail-input {
+    border: none;
+    outline: none;
+}
+.input-email:focus,
+.multiemail-input:focus {
+    box-shadow: none !important;
+    outline: none;
+}
+.input-email-box .label{
+    margin: 9px !important;
+    color: #858585;
+}
+
+.red-file-highlighter {
+    color: #f80707;
+}
+
+.blue-file-highlighter {
+    color: cornflowerblue;
+}
+
+.green-file-highlighter {
+    color: forestgreen;
+}
+
+.multiemail-input.error {
+    color: red;
+}
+
+.multiemail-input {
+    min-width: 250px;
+}
+
+.invoice-file-size {
+    float: right;
+}
+
+.invoice-file-name {
+    text-transform: uppercase;
+}
+
+.file-wrapper {
+    padding: 10px;
+}
+
+.file-icon {
+    text-align: center;
+}
+
+.emailthumbnail.card {
+    margin: 5px;
+}
+

@@ -1,0 +1,10 @@
+export const passwordRegEx = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d!$%@#£€*?&]{8,}$/;
+export const emailRegEx = /^([a-zA-Z0-9_+\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/;
+export const minRangeRegEx = /[1-5]?[0-9]\-[1-5]?[0-9]$/;
+export const minsRegEx = /^[1-5]?[0-9](,[1-5]?[0-9])*$/;
+export const hoursRegEx = /^(2[0-3]|1[0-9]|[0-9])(,(2[0-3]|1[0-9]|[0-9]))*$/;
+export const hourRangeRegEx = /^(2[0-3]|1[0-9]|[0-9])\-(2[0-3]|1[0-9]|[0-9])$/;
+export const weekDayRangeRegEx = /^[0-7]\-[0-7]$/;
+export const weekDaysRegEx = /^[0-7](,[0-7])*$/;
+export const daysRegEx = /^(3[01]|[12][0-9]|[1-9])(,(3[01]|[12][0-9]|[1-9]))*$/;
+export const daysRangeRegEx = /^(3[01]|[12][0-9]|[1-9])\-(3[01]|[12][0-9]|[1-9])$/;

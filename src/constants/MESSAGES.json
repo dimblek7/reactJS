@@ -1,0 +1,13 @@
+{
+  "E": {
+    "fillAllFields": "Please fill all required fields",
+    "fieldMandatory": "This field is mandatory",
+    "somethingWentWrong": "Something went wrong, please try again",
+    "sessionExpired": "Session expired"
+  },
+  "S": {
+      "saved": "Saved successfully",
+      "deleted": "Deleted successfully",
+      "created": "Created successfully"
+  }
+}

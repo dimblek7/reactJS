@@ -1,0 +1,6 @@
+// eslint-disable-next-line no-unused-vars
+import Production from "./PROD.json";
+import Development from "./DEV.json";
+
+const fe_config = Production;
+export default fe_config;
